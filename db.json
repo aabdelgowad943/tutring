@@ -1,0 +1,16 @@
+{
+  "assistant": [
+    {
+      "name": "احمد",
+      "phone": "1002395337",
+      "email": "admin@mail.com",
+      "password": "Admin@123",
+      "notifications": "",
+      "permissions": "",
+      "id": 1
+    }
+  ],
+  "tutor": [],
+  "student": [],
+  "course": []
+}
