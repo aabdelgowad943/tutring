@@ -1,27 +1,24 @@
-# Tutoring
-
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.0.2.
-
-## Development server
-
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
-
-## Code scaffolding
-
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
-
-## Build
-
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+![Re7la — Mozilla Firefox 15_2_2024 9_47_09 م](https://github.com/aabdelgowad943/tutring/assets/131953551/69cdf75c-9a88-4791-96f6-0a36acc7c3d9)
+![Re7la — Mozilla Firefox 15_2_2024 9_46_59 م](https://github.com/aabdelgowad943/tutring/assets/131953551/c767b800-0d57-4c13-a64f-ba18eaaf457f)
+![Re7la — Mozilla Firefox 15_2_2024 9_46_47 م](https://github.com/aabdelgowad943/tutring/assets/131953551/2fc755c3-169f-4e95-9cb4-2faacc848515)
+![Re7la — Mozilla Firefox 15_2_2024 9_46_37 م](https://github.com/aabdelgowad943/tutring/assets/131953551/39c01ff1-e667-466b-944e-2a425c106a38)
+![Re7la — Mozilla Firefox 15_2_2024 9_46_33 م](https://github.com/aabdelgowad943/tutring/assets/131953551/1b8a86e8-ce65-43ae-9948-a8b8e10eb5f5)
+![Re7la — Mozilla Firefox 15_2_2024 9_46_27 م](https://github.com/aabdelgowad943/tutring/assets/131953551/2ce581a1-c222-44ae-a6cc-10584f43e4dd)
+![Re7la — Mozilla Firefox 15_2_2024 9_46_07 م](https://github.com/aabdelgowad943/tutring/assets/131953551/ae986241-219d-461c-ad4a-2538fc622d3c)
+![Re7la — Mozilla Firefox 15_2_2024 9_45_59 م](https://github.com/aabdelgowad943/tutring/assets/131953551/bc7c0fff-a037-4a7d-8c6f-e4584e994242)
+![Re7la — Mozilla Firefox 15_2_2024 9_45_46 م](https://github.com/aabdelgowad943/tutring/assets/131953551/899eef24-18a9-4631-8ed6-ab00805c8499)
+![Re7la — Mozilla Firefox 15_2_2024 9_45_23 م](https://github.com/aabdelgowad943/tutring/assets/131953551/126e6a6a-77c5-459d-bc88-259a4acd4531)
+![Re7la — Mozilla Firefox 15_2_2024 9_45_19 م](https://github.com/aabdelgowad943/tutring/assets/131953551/00eed3f8-c278-4b13-a2d5-07a5c53bbcf3)
+![Re7la — Mozilla Firefox 15_2_2024 9_45_12 م](https://github.com/aabdelgowad943/tutring/assets/131953551/814d98a3-f80b-43e0-96fe-a902ffbaee32)
+![Re7la — Mozilla Firefox 15_2_2024 9_44_46 م](https://github.com/aabdelgowad943/tutring/assets/131953551/01546507-52c7-4232-aaf7-dff4ea677f73)
+![Re7la — Mozilla Firefox 15_2_2024 9_44_43 م](https://github.com/aabdelgowad943/tutring/assets/131953551/cb650a97-6d66-43c4-893a-e2965b797d1a)
+![Re7la — Mozilla Firefox 15_2_2024 9_44_30 م](https://github.com/aabdelgowad943/tutring/assets/131953551/93f98145-ebad-4409-ab4f-4cb4bc273158)
+![Re7la — Mozilla Firefox 15_2_2024 9_44_21 م](https://github.com/aabdelgowad943/tutring/assets/131953551/9eece9ab-af33-4ea4-bf8f-c326830ae245)
+![Re7la — Mozilla Firefox 15_2_2024 9_44_11 م](https://github.com/aabdelgowad943/tutring/assets/131953551/595e0d44-91e7-48ed-a3a0-52cb5b93a487)
+![Re7la — Mozilla Firefox 15_2_2024 9_44_05 م](https://github.com/aabdelgowad943/tutring/assets/131953551/c1ef26ce-da60-4bac-87e6-cad148592ca5)
+![Re7la — Mozilla Firefox 15_2_2024 9_43_58 م](https://github.com/aabdelgowad943/tutring/assets/131953551/27ae4322-68a6-429d-91ca-936f1b984e02)
+![Re7la — Mozilla Firefox 15_2_2024 9_43_52 م](https://github.com/aabdelgowad943/tutring/assets/131953551/17d06b43-fa46-449f-a3e9-e782d4f32bf0)
+![Re7la — Mozilla Firefox 15_2_2024 9_43_40 م](https://github.com/aabdelgowad943/tutring/assets/131953551/de703bee-be7b-4d95-81c0-fac695cba7ec)
+![Re7la — Mozilla Firefox 15_2_2024 9_47_51 م](https://github.com/aabdelgowad943/tutring/assets/131953551/d5333f27-b199-460a-a0e8-55a2b2f73afe)
+![Re7la — Mozilla Firefox 15_2_2024 9_47_47 م](https://github.com/aabdelgowad943/tutring/assets/131953551/713cb862-7fd6-480b-8bbd-aecde6a71996)
+![Re7la — Mozilla Firefox 15_2_2024 9_47_41 م](https://github.com/aabdelgowad943/tutring/assets/131953551/4de9b408-e97b-4cdf-b399-164a009ed5d1)
